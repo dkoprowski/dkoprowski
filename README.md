@@ -10,12 +10,6 @@ In my free time, I like to cook, trekking, play badminton and create big dreams.
 
 ---
 
-## My current tech stack
-
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/gatsby.svg" alt="Gatsby Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg" alt="VSCode Logo" width="50" height="50"/>
-
----
-
 ## Lastest articles on Koprowski.it blog
 
 <!-- BLOG-POST-LIST:START -->
@@ -27,6 +21,12 @@ In my free time, I like to cook, trekking, play badminton and create big dreams.
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...see more articles](https://koprowski.it)
+
+---
+
+## My current tech stack
+
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/gatsby.svg" alt="Gatsby Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg" alt="VSCode Logo" width="50" height="50"/>
 
 <!--
 **dkoprowski/dkoprowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
