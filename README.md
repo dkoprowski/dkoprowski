@@ -13,11 +13,11 @@ In my free time, I like to cook, trekking, play badminton and create big dreams.
 ## Lastest articles on Koprowski.it blog
 
 <!-- BLOG-POST-LIST:START -->
+- [My technical writing workflow](https://koprowski.it/technical-writing-workflow/)
 - [How to configure import alias in React Native](https://koprowski.it/import-alias-in-react-native-and-vscode/)
 - [Handy form validation in React Native with react-hook-form useController](https://koprowski.it/react-native-form-validation-with-react-hook-form-usecontroller/)
 - [What are the benefits of mobile app session recording](https://koprowski.it/2020/mobile-app-session-recording-with-smartlook/)
 - [Juicy list of VSCode Extensions for React Native, JavaScript and general use](https://koprowski.it/2020/vscode-extensions-for-react-native-javascript/)
-- [Conditional rendering in React Native may crash your app](https://koprowski.it/2020/conditional-rendering-react-native-text-crash/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...see more articles](https://koprowski.it)
