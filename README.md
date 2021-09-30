@@ -1,6 +1,7 @@
 # Hello 👋, I'm Daniel
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Koprowski_it?style=social)](https://twitter.com/Koprowski_it)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Koprowski_it?style=for-the-badge&logo=TWITTER&logoColor=FFFFFF&labelColor=00aced&logoWidth=20&color=lightgray)](https://twitter.com/Koprowski_it)
+
 
 I'm on a mission to make our world better by sharing knowledge. That is why I created a programming and productivity blog. It is also my technological playground. Also, I use Twitter for a similar reason.
 
