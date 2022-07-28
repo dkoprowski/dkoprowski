@@ -3,11 +3,11 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/Koprowski_it?style=for-the-badge&logo=TWITTER&logoColor=FFFFFF&labelColor=00aced&logoWidth=20&color=lightgray)](https://twitter.com/Koprowski_it)
 
 
-I'm on a mission to make our world better by sharing knowledge. That is why I created a programming and productivity blog. It is also my technological playground. Also, I use Twitter for a similar reason.
+I'm on a mission to make our world better by sharing knowledge. That is why I created a programming and productivity blog which is my technological playground. Also, I use Twitter for a similar reason.
 
 Since 2015 I work professionally with user interfaces. I have experience with user app interaction through a wide range of channels. Like a mouse-clicking, screen touch, Kinect sensor, virtual reality controllers and gamepads. 
 
-In my free time, I like to cook, trekking, play badminton and create big dreams.
+In my free time, I like to cook, hike, play badminton and dream big.
 
 ---
 
