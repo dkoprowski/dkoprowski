@@ -1,6 +1,6 @@
 # Hello 👋, I'm Daniel
 
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Koprowski_it)
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Koprowski_it)](https://twitter.com/Koprowski_it/)
 
 I'm on a mission to make our world better by sharing knowledge. That is why I created a programming and productivity blog which is my technological playground. Also, I use Twitter for a similar reason.
 
@@ -39,9 +39,7 @@ In my free time, I like to cook, hike, play badminton, and dream big.
 
 ## My current tech stack
 
-<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript Logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/>
 
 <!--
 **dkoprowski/dkoprowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
