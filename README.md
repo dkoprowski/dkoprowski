@@ -1,17 +1,16 @@
 # Hello 👋, I'm Daniel
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Koprowski_it?style=for-the-badge&logo=TWITTER&logoColor=FFFFFF&labelColor=00aced&logoWidth=20&color=lightgray)](https://twitter.com/Koprowski_it)
-
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Koprowski_it)
 
 I'm on a mission to make our world better by sharing knowledge. That is why I created a programming and productivity blog which is my technological playground. Also, I use Twitter for a similar reason.
 
-Since 2015 I work professionally with user interfaces. I have experience with user app interaction through a wide range of channels. Like a mouse-clicking, screen touch, Kinect sensor, virtual reality controllers and gamepads. 
+Since 2015, I work professionally with user interfaces. I have experience with app interaction through a wide range of channels. Like mouse-clicking, screen touch, Kinect sensor, virtual reality controllers, and gamepads. 
 
-In my free time, I like to cook, hike, play badminton and dream big.
+In my free time, I like to cook, hike, play badminton, and dream big.
 
 ---
 
-## Lastest articles on Koprowski.it blog
+## Latest articles on Koprowski.it blog
 
 <!-- BLOG-POST-LIST:START -->
 - [My technical writing workflow](https://koprowski.it/technical-writing-workflow/)
@@ -27,7 +26,9 @@ In my free time, I like to cook, hike, play badminton and dream big.
 
 ## My current tech stack
 
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/gatsby.svg" alt="Gatsby Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/>
 
 <!--
 **dkoprowski/dkoprowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
