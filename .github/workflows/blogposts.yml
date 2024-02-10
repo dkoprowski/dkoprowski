@@ -12,7 +12,12 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Pull in dev.to posts
+      - name: Pull in blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://www.koprowski.it/blog/rss.xml"            
+          feed_list: "https://www.koprowski.it/blog/rss.xml"
+      - name: Pull in newsletter posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://www.progractivity.com/issues/rss.xml"             
+          comment_tag_name: NEWSLETTER-POST-LIST
