@@ -20,9 +20,17 @@ In my free time, I like to cook, hike, play badminton, and dream big.
 - [Juicy list of VSCode Extensions for React Native, JavaScript and general use](https://www.koprowski.it/blog/vscode-extensions-for-react-native-javascript)
 <!-- BLOG-POST-LIST:END -->
 
-▶ [...see more articles](https://koprowski.it)
+▶ [...see more articles](https://www.koprowski.it)
+
 
 ---
+
+## Latest Progractivity newsletter issues
+
+<!-- NEWSLETTER-POST-LIST:START -->
+<!-- NEWSLETTER-POST-LIST:END -->
+
+▶ [...see all issues of the newsletter](https://www.progractivity.com/)
 
 ## My current tech stack
 
