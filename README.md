@@ -28,11 +28,11 @@ In my free time, I like to cook, hike, play badminton, and dream big.
 ## Latest Progractivity newsletter issues
 
 <!-- NEWSLETTER-POST-LIST:START -->
-- [ChatGPT Summarization &amp; Bluesky Open Access!](https://www.progractivity.com/issues/chat-gpt-summarization-bluesky-open-access)
-- [Three content-blocking tactics to avoid careless scrolling](https://www.progractivity.com/issues/three-content-blocking-tactics-to-avoid-careless-scrolling)
-- [My one-day adventure with Revue](https://www.progractivity.com/issues/my-one-day-adventure-with-revue)
-- [How to block distracting content across devices](https://www.progractivity.com/issues/how-to-block-distracting-content-across-devices)
-- [Lessons learned from chasing after 1000 followers on Twitter](https://www.progractivity.com/issues/lessons-learned-from-chasing-after-1000-followers-on-twitter)
+- [ChatGPT Summarization &amp; Bluesky Open Access!](https://www.progractivity.com/flow/chat-gpt-summarization-bluesky-open-access)
+- [Three content-blocking tactics to avoid careless scrolling](https://www.progractivity.com/flow/three-content-blocking-tactics-to-avoid-careless-scrolling)
+- [My one-day adventure with Revue](https://www.progractivity.com/flow/my-one-day-adventure-with-revue)
+- [How to block distracting content across devices](https://www.progractivity.com/flow/how-to-block-distracting-content-across-devices)
+- [Lessons learned from chasing after 1000 followers on Twitter](https://www.progractivity.com/flow/lessons-learned-from-chasing-after-1000-followers-on-twitter)
 <!-- NEWSLETTER-POST-LIST:END -->
 
 ▶ [...see all issues of the newsletter](https://www.progractivity.com/)
