@@ -1,12 +1,16 @@
-# Hello 👋, I'm Daniel
+# Hello there 👋
 
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Koprowski_it)](https://twitter.com/Koprowski_it/)
 
-I'm on a mission to make our world better by sharing knowledge. That is why I created a programming and productivity blog which is my technological playground. Also, I use Twitter for a similar reason.
+I'm Daniel, a software engineer passionate about enhancing how we interact with technology.
 
-Since 2015, I work professionally with user interfaces. I have experience with app interaction through a wide range of channels. Like mouse-clicking, screen touch, Kinect sensor, virtual reality controllers, and gamepads. 
+Driven by a mission to make our world better by sharing knowledge, I launched this blog focused on programming and productivity.
 
-In my free time, I like to cook, hike, play badminton, and dream big.
+Since 2015, I've been coding the bridge between design and functionality, turning visions into interactive experiences and exploring the many ways people interact with apps. Whether through a click, a touch, motion sensing with Kinect, diving into VR, or using gamepads. 
+
+I love making technology more accessible and engaging for everyone. To me, the magic lies in turning great designs into real, usable products that people love.
+
+Beyond technology, my interests include cooking, hiking, playing badminton, and tackling various DIY projects. My blogs, [Koprowski.it](https://www.koprowski.it/) and [Progractivity](https://www.progractivity.com/), are places where I blend my professional insights with personal passions, aiming to share knowledge that not only informs but also inspires.
 
 ---
 
