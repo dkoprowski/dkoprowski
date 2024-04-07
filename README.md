@@ -4,7 +4,7 @@
 
 I'm Daniel, a software engineer passionate about enhancing how we interact with technology.
 
-Driven by a mission to make our world better by sharing knowledge, I launched this blog focused on programming and productivity.
+Driven by a mission to make our world better by sharing knowledge, I launched blogs focused on programming and productivity.
 
 Since 2015, I've been coding the bridge between design and functionality, turning visions into interactive experiences and exploring the many ways people interact with apps. Whether through a click, a touch, motion sensing with Kinect, diving into VR, or using gamepads. 
 
