@@ -32,11 +32,11 @@ Beyond technology, my interests include cooking, hiking, playing badminton, and 
 ## Latest Progractivity newsletter issues
 
 <!-- NEWSLETTER-POST-LIST:START -->
+- [Coding in Quiet: How I Solved Slack Noise as a Developer](https://www.progractivity.com/flow/coding-in-quiet-how-i-solved-slack-noise-as-a-developer/)
 - [ChatGPT Summarization &amp; Bluesky Open Access!](https://www.progractivity.com/flow/chat-gpt-summarization-bluesky-open-access/)
 - [Three content-blocking tactics to avoid careless scrolling](https://www.progractivity.com/flow/three-content-blocking-tactics-to-avoid-careless-scrolling/)
 - [My one-day adventure with Revue](https://www.progractivity.com/flow/my-one-day-adventure-with-revue/)
 - [How to block distracting content across devices](https://www.progractivity.com/flow/how-to-block-distracting-content-across-devices/)
-- [Lessons learned from chasing after 1000 followers on Twitter](https://www.progractivity.com/flow/lessons-learned-from-chasing-after-1000-followers-on-twitter/)
 <!-- NEWSLETTER-POST-LIST:END -->
 
 ▶ [...see all issues of the newsletter](https://www.progractivity.com/)
