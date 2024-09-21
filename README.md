@@ -12,7 +12,17 @@ I love making technology more accessible and engaging for everyone. To me, the m
 
 Beyond technology, my interests include cooking, hiking, playing badminton, and tackling various DIY projects. My blogs, [Koprowski.it](https://www.koprowski.it/) and [Progractivity](https://www.progractivity.com/), are places where I blend my professional insights with personal passions, aiming to share knowledge that not only informs but also inspires.
 
----
+## Latest Insights on Progractivity.com
+
+<!-- NEWSLETTER-POST-LIST:START -->
+- [How to make your own playing cards + Agile Poker template](https://www.progractivity.com/flow/how-to-make-your-own-playing-cards-with-agile-poker-template/)
+- [Coding in Quiet: How I Solved Slack Noise as a Developer](https://www.progractivity.com/flow/coding-in-quiet-how-i-solved-slack-noise-as-a-developer/)
+- [ChatGPT Summarization &amp; Bluesky Open Access!](https://www.progractivity.com/flow/chat-gpt-summarization-bluesky-open-access/)
+- [Three content-blocking tactics to avoid careless scrolling](https://www.progractivity.com/flow/three-content-blocking-tactics-to-avoid-careless-scrolling/)
+- [My one-day adventure with Revue](https://www.progractivity.com/flow/my-one-day-adventure-with-revue/)
+<!-- NEWSLETTER-POST-LIST:END -->
+
+▶ [...see more on Progractivity](https://www.progractivity.com/)
 
 ## Latest articles on Koprowski.it blog
 
@@ -25,21 +35,6 @@ Beyond technology, my interests include cooking, hiking, playing badminton, and 
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...see more articles](https://www.koprowski.it)
-
-
----
-
-## Latest Progractivity newsletter issues
-
-<!-- NEWSLETTER-POST-LIST:START -->
-- [How to make your own playing cards + Agile Poker template](https://www.progractivity.com/flow/how-to-make-your-own-playing-cards-with-agile-poker-template/)
-- [Coding in Quiet: How I Solved Slack Noise as a Developer](https://www.progractivity.com/flow/coding-in-quiet-how-i-solved-slack-noise-as-a-developer/)
-- [ChatGPT Summarization &amp; Bluesky Open Access!](https://www.progractivity.com/flow/chat-gpt-summarization-bluesky-open-access/)
-- [Three content-blocking tactics to avoid careless scrolling](https://www.progractivity.com/flow/three-content-blocking-tactics-to-avoid-careless-scrolling/)
-- [My one-day adventure with Revue](https://www.progractivity.com/flow/my-one-day-adventure-with-revue/)
-<!-- NEWSLETTER-POST-LIST:END -->
-
-▶ [...see all issues of the newsletter](https://www.progractivity.com/)
 
 ## My current tech stack
 
