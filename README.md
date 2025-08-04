@@ -15,11 +15,11 @@ Beyond technology, my interests include cooking, hiking, playing badminton, and 
 ## Latest Insights on Progractivity.com
 
 <!-- NEWSLETTER-POST-LIST:START -->
+- [Revolutionize Your Daily Stand-Ups: My Team&#39;s Journey Lessons](https://www.progractivity.com/flow/revolutionize-your-daily-stand-ups/)
 - [Stop Doomscrolling: 7-Step Digital Detox Checklist](https://www.progractivity.com/flow/stop-doomscrolling-digital-detox-checklist/)
 - [Focus on a Single Task Per Day in October!](https://www.progractivity.com/flow/focus-on-a-single-task-per-day-in-october-using-focus-calendar/)
 - [How to make your own playing cards + Agile Poker template](https://www.progractivity.com/flow/how-to-make-your-own-playing-cards-with-agile-poker-template/)
 - [Coding in Quiet: How I Solved Slack Noise as a Developer](https://www.progractivity.com/flow/coding-in-quiet-how-i-solved-slack-noise-as-a-developer/)
-- [ChatGPT Summarization &amp; Bluesky Open Access!](https://www.progractivity.com/flow/chat-gpt-summarization-bluesky-open-access/)
 <!-- NEWSLETTER-POST-LIST:END -->
 
 ▶ [...see more on Progractivity](https://www.progractivity.com/)
