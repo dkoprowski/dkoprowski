@@ -19,5 +19,5 @@ jobs:
       - name: Pull in newsletter posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://www.progractivity.com/issues/rss.xml"             
+          feed_list: "https://www.progractivity.com/flow/rss.xml"             
           comment_tag_name: NEWSLETTER-POST-LIST
