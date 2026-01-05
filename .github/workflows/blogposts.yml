@@ -16,8 +16,8 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://www.koprowski.it/blog/rss.xml"
-      - name: Pull in newsletter posts
+      - name: Pull in PlanTheFlow posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://www.progractivity.com/flow/rss.xml"             
-          comment_tag_name: NEWSLETTER-POST-LIST
+          feed_list: "https://plantheflow.com/blog/rss.xml"             
+          comment_tag_name: PLANTHEFLOW-POST-LIST
