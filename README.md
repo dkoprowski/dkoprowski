@@ -10,19 +10,19 @@ Since 2015, I've been coding the bridge between design and functionality, turnin
 
 I love making technology more accessible and engaging for everyone. To me, the magic lies in turning great designs into real, usable products that people love.
 
-Beyond technology, my interests include cooking, hiking, playing badminton, and tackling various DIY projects. My blogs, [Koprowski.it](https://www.koprowski.it/) and [Progractivity](https://www.progractivity.com/), are places where I blend my professional insights with personal passions, aiming to share knowledge that not only informs but also inspires.
+Beyond technology, my interests include cooking, hiking, playing badminton, and tackling various DIY projects. My blogs, [Koprowski.it](https://www.koprowski.it/) and [PlanTheFlow](https://www.PlanTheFlow.com/), are places where I blend my professional insights with personal passions, aiming to share knowledge that not only informs but also inspires.
 
-## Latest Insights on Progractivity.com
+## Latest Insights on PlanTheFlow.com
 
-<!-- NEWSLETTER-POST-LIST:START -->
+<!-- PLANTHEFLOW-POST-LIST:START -->
 - [Small Changes That Made Our Daily Stand-Ups More Useful](https://plantheflow.com/blog/improve-daily-stand-ups-small-changes/)
 - [Stop Doomscrolling: 7-Step Digital Detox Checklist](https://plantheflow.com/blog/stop-doomscrolling-digital-detox-checklist/)
 - [Focus on a Single Task Per Day in October!](https://plantheflow.com/blog/focus-on-a-single-task-per-day-in-october-using-focus-calendar/)
 - [How to make your own playing cards + Agile Poker template](https://plantheflow.com/blog/how-to-make-your-own-playing-cards-with-agile-poker-template/)
 - [Coding in Quiet: How I Solved Slack Noise as a Developer](https://plantheflow.com/blog/coding-in-quiet-how-i-solved-slack-noise-as-a-developer/)
-<!-- NEWSLETTER-POST-LIST:END -->
+<!-- PLANTHEFLOW-POST-LIST:END -->
 
-▶ [...see more on Progractivity](https://www.progractivity.com/)
+▶ [...see more on PlanTheFlow](https://plantheflow.com/)
 
 ## Latest articles on Koprowski.it blog
 
