@@ -17,7 +17,7 @@ Beyond technology, my interests include cooking, hiking, playing badminton, and 
 <!-- PLANTHEFLOW-POST-LIST:START -->
 - [Small Changes That Made Our Daily Stand-Ups More Useful](https://plantheflow.com/blog/improve-daily-stand-ups-small-changes/)
 - [Stop Doomscrolling: 7-Step Digital Detox Checklist](https://plantheflow.com/blog/stop-doomscrolling-digital-detox-checklist/)
-- [Focus on a Single Task Per Day in October!](https://plantheflow.com/blog/focus-on-a-single-task-per-day-in-october-using-focus-calendar/)
+- [Focus on a Single Task Per Day!](https://plantheflow.com/blog/focus-on-a-single-task-per-day-in-october-using-focus-calendar/)
 - [How to make your own playing cards + Agile Poker template](https://plantheflow.com/blog/how-to-make-your-own-playing-cards-with-agile-poker-template/)
 - [Coding in Quiet: How I Solved Slack Noise as a Developer](https://plantheflow.com/blog/coding-in-quiet-how-i-solved-slack-noise-as-a-developer/)
 <!-- PLANTHEFLOW-POST-LIST:END -->
