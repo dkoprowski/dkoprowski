@@ -15,11 +15,11 @@ Beyond technology, my interests include cooking, hiking, playing badminton, and 
 ## Latest Insights on PlanTheFlow.com
 
 <!-- PLANTHEFLOW-POST-LIST:START -->
+- [AI Is Flying the Plane. When Did You Last Take the Controls?](https://plantheflow.com/blog/coding-skill-atrophy-ai/)
 - [The Hidden Cost of Knowledge Silos in Your Dev Team](https://plantheflow.com/blog/knowledge-silos-cost/)
 - [Small Changes That Made Our Daily Stand-Ups More Useful](https://plantheflow.com/blog/improve-daily-stand-ups-small-changes/)
 - [Stop Doomscrolling: 7-Step Digital Detox Checklist](https://plantheflow.com/blog/stop-doomscrolling-digital-detox-checklist/)
 - [Focus on a Single Task Per Day!](https://plantheflow.com/blog/focus-on-a-single-task-per-day-in-october-using-focus-calendar/)
-- [How to make your own playing cards + Agile Poker template](https://plantheflow.com/blog/how-to-make-your-own-playing-cards-with-agile-poker-template/)
 <!-- PLANTHEFLOW-POST-LIST:END -->
 
 ▶ [...see more on PlanTheFlow](https://plantheflow.com/)
