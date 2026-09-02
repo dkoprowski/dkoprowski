@@ -38,8 +38,13 @@ Beyond technology, my interests include cooking, hiking, playing badminton, and 
 
 ## My current tech stack
 
-<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/> <img src="https://astro.build/assets/press/astro-icon-light-gradient.svg" alt="Astro Logo" width="50" height="50"/>
+<!-- <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/> <img src="https://astro.build/assets/press/astro-icon-light-gradient.svg" alt="Astro Logo" width="50" height="50"/> -->
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,ts,astro,vscode&theme=dark" />
+  </a>
+</p>
 <!--
 **dkoprowski/dkoprowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
