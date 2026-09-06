@@ -17,9 +17,9 @@ Beyond technology, my interests include cooking, hiking, playing badminton, and 
 <!-- PLANTHEFLOW-POST-LIST:START -->
 - [AI Is Flying the Plane. When Did You Last Take the Controls?](https://plantheflow.com/blog/coding-skill-atrophy-ai/)
 - [The Hidden Cost of Knowledge Silos in Your Dev Team](https://plantheflow.com/blog/knowledge-silos-cost/)
-- [Small Changes That Made Our Daily Stand-Ups More Useful](https://plantheflow.com/blog/improve-daily-stand-ups-small-changes/)
-- [Stop Doomscrolling: 7-Step Digital Detox Checklist](https://plantheflow.com/blog/stop-doomscrolling-digital-detox-checklist/)
-- [Focus on a Single Task Per Day!](https://plantheflow.com/blog/focus-on-a-single-task-per-day-in-october-using-focus-calendar/)
+- [3 Content Blocking Tactics I Tested to Stop Mindless Scrolling](https://plantheflow.com/blog/three-content-blocking-tactics-to-avoid-careless-scrolling/)
+- [How I Fixed Slack Noise: 3-Step System for Developers](https://plantheflow.com/blog/coding-in-quiet-how-i-solved-slack-noise-as-a-developer/)
+- [How to block distracting content across devices](https://plantheflow.com/blog/how-to-block-distracting-content-across-devices/)
 <!-- PLANTHEFLOW-POST-LIST:END -->
 
 ▶ [...see more on PlanTheFlow](https://plantheflow.com/)
