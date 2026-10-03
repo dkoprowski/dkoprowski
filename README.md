@@ -28,10 +28,10 @@ Beyond technology, my interests include cooking, hiking, playing badminton, and 
 
 <!-- BLOG-POST-LIST:START -->
 - [My technical writing workflow](https://www.koprowski.it/blog/technical-writing-workflow/)
-- [How to configure import alias in React Native](https://www.koprowski.it/blog/import-alias-in-react-native-and-vscode/)
-- [Handy form validation in React Native with react-hook-form useController](https://www.koprowski.it/blog/react-native-form-validation-with-react-hook-form-usecontroller/)
 - [What are the benefits of mobile app session recording](https://www.koprowski.it/blog/mobile-app-session-recording-with-smartlook/)
-- [Juicy list of VSCode Extensions for React Native, JavaScript and general use](https://www.koprowski.it/blog/vscode-extensions-for-react-native-javascript/)
+- [8 convincing reasons why Nozbe is the best GTD to do list app](https://www.koprowski.it/blog/nozbe-the-best-gtd-to-do-list-app/)
+- [Configure Android SDK for Unity](https://www.koprowski.it/blog/unity-android-config/)
+- [VS Code — the best IDE for Unity dev](https://www.koprowski.it/blog/vs-code-the-best-ide-for-unity-dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...see more articles](https://www.koprowski.it)
